@@ -8,4 +8,4 @@ Saya merupakan Cohort di bagian Mobile Development.<br>
 
 Saya juga Mahasiswa dari Politeknik Negeri Sriwijaya Program Studi D4 TIMD.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/nabila-229121289) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nabila-229121289/) ku ya.
