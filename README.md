@@ -40,7 +40,7 @@ Overall, I'm just passionate about learning and building new things in the tech 
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=nabilanabila19&theme=dark&cache_bust=1" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=nabilanabila19&theme=dark" alt="GitHub Streak" />
 </p>
 
 <br/>
