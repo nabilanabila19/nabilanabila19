@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hi!%20I'm%20Nabila&fontAlign=50&fontAlignY=38&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Hi%20there!%20I'm%20Nabila&fontAlign=50&fontAlignY=38&fontSize=70" />
 </p>
 
 <div align="left">
@@ -40,7 +40,7 @@ Overall, I'm just passionate about learning and building new things in the tech 
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.vercel.app/?user=nabilanabila19&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=nabilanabila19&theme=dark&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -48,7 +48,7 @@ Overall, I'm just passionate about learning and building new things in the tech 
 ### 🤝 Connect with Me
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/nabila-229121289/]" target="_blank">
+<a href="https://www.linkedin.com/in/nabila-229121289/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
