@@ -95,14 +95,12 @@ I started out in mobile development, but my curiosity kept pulling me deeper —
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabilanabila19&show_icons=true&theme=rose_pine&border_color=E879A0&title_color=E879A0&icon_color=C084FC&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilanabila19&layout=compact&theme=rose_pine&border_color=E879A0&title_color=E879A0" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nabilanabila19&show_icons=true&theme=rose_pine&border_color=E879A0&title_color=E879A0&icon_color=C084FC&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nabilanabila19&layout=compact&theme=rose_pine&border_color=E879A0&title_color=E879A0" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nabilanabila19&theme=rose-pine&border=E879A0&ring=C084FC&fire=E879A0&currStreakLabel=C084FC" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabilanabila19&bg_color=191724&color=E879A0&line=C084FC&point=eb6f92&area=true&hide_border=false&area_color=C084FC" />
 </p>
